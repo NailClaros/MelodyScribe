@@ -6,3 +6,7 @@ __pycache__/
 *.midi
 *.mxml
 *.mxl
+test/*
+train/*
+valid/*
+data/images/*
